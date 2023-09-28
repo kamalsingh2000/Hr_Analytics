@@ -21,4 +21,4 @@ Creating the HR Analytics Dashboard
 Leveraged Power BI to design a dynamic and visually appealing HR analytics dashboard. This step ensured that the insights were presented in an easily digestible format.
 
 
-# Refer the Hr_Analytics Pdf File to go through Data Pipeline .
+# Refer the Hr_Analytics Pdf File to go through Data Pipeline.
